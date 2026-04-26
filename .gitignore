@@ -1,0 +1,15 @@
+# Build output
+LyricFetcher.app/
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Debug files
+debug_*.swift
